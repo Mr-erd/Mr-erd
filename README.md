@@ -74,7 +74,7 @@ Me chamo Eugenio,Maranhense e futuro Cientista da Computação, movido pela curi
 <br/>
 <br/>
 
-### 📊 Estatísticas
+ ### 📊 Estatísticas
 
 <p>
   <img 
