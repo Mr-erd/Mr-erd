@@ -61,8 +61,8 @@ Sou um entusiasta da tecnologia movido por curiosidade e inovação! Meu foco é
 
 | Plataforma       | Link                        |
 |-------------------|-----------------------------|
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge) | [Perfil](https://www.linkedin.com/in/eugenio-santana/) *(atualize com seu link)* |
-| ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge) | [eugenio.santana@example.com](mailto:eugenio.santana@example.com) *(substitua por seu e-mail)* |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge) | [Perfil](https://www.linkedin.com/in/eugenio-santana/)  |
+| ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge) | [eugenio.santana@example.com](mailto:eugenio.santana@example.com)  |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge) | [Mr-erd](https://github.com/Mr-erd) |
 
 ---
