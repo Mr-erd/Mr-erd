@@ -1,101 +1,78 @@
-# 👩🏻‍💻 Eugenio Santana
+# 🚀 Eugenio Santana | Full Stack in Progress
 
-**`Futuro Desenvolvedor FullStack`**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/assets/banner-tech.gif" alt="Banner Tech" width="100%">
+</div>
 
-Me chamo Eugenio,Maranhense e futuro Cientista da Computação, movido pela curiosidade e pela busca de soluções inovadoras. Meu interesse principal reside em Segurança Cibernética e Desenvolvimento Web Full-Stack, e venho aprimorando minhas habilidades em tecnologias . Estou sempre aberto a novos desafios e aprendizados que expandam minha visão sobre o universo da tecnologia.
+`🌴 Maranhense | 4º Semestre Ciência da Computação | Segurança Cibernética & Web Dev`
 
+Sou um entusiasta da tecnologia movido por curiosidade e inovação! Meu foco é dominar **Segurança Cibernética** e **Desenvolvimento Web Full Stack**. Estou mergulhado em HTML, CSS, JavaScript e mais, sempre pronto para desafios que ampliem meu horizonte tech. Vamos construir o futuro juntos? 💻✨
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### 🌈 Tech Stack & Skills
 
+| Tecnologia       | Nível         | Badge Interativo                   |
+|-------------------|---------------|------------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge) | Básico        | [![HTML5 Tutorial](https://img.shields.io/badge/Tutorial-Click%20Aqui-blueviolet)](https://www.w3schools.com/html/) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge) | Intermediário | [![CSS Tutorial](https://img.shields.io/badge/Tutorial-Click%20Aqui-blueviolet)](https://www.w3schools.com/css/) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge) | Básico        | [![JS Tutorial](https://img.shields.io/badge/Tutorial-Click%20Aqui-blueviolet)](https://www.w3schools.com/js/) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=for-the-badge) | Intermediário | [![Bootstrap Docs](https://img.shields.io/badge/Docs-Click%20Aqui-blueviolet)](https://getbootstrap.com/) |
+| ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&style=for-the-badge) | Básico        | [![jQuery Docs](https://img.shields.io/badge/Docs-Click%20Aqui-blueviolet)](https://jquery.com/) |
+| ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge) | Intermediário | [![Git Guide](https://img.shields.io/badge/Guide-Click%20Aqui-blueviolet)](https://git-scm.com/doc) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge) | Intermediário | [![Python Docs](https://img.shields.io/badge/Docs-Click%20Aqui-blueviolet)](https://www.python.org/) |
 
+---
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+### 📊 Stats & Progresso
 
-
-
-
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
- ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Mr-erd&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
+<div align="center">
+  <a href="https://github.com/Mr-erd">
+    <img 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-erd&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api?username=Mr-erd&theme=react&show_icons=true&include_all_commits=true&count_private=true" 
+    />
+  </a>
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-erd&theme=react&layout=compact&langs_count=8" 
   />
+</div>
 
-</p>
+---
+
+### 🐍 Contribuições Animadas
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+
+---
+
+
+### 🌐 Conecte-se Comigo
+
+| Plataforma       | Link                        |
+|-------------------|-----------------------------|
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge) | [Perfil](https://www.linkedin.com/in/eugenio-santana/) *(atualize com seu link)* |
+| ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge) | [eugenio.santana@example.com](mailto:eugenio.santana@example.com) *(substitua por seu e-mail)* |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge) | [Mr-erd](https://github.com/Mr-erd) |
+
+---
+
+### ✨ Sobre Mim
+
+- 🎓 Estudante no IFMA, apaixonado por código e segurança.
+- 🌴 Orgulho de ser Maranhense! 🇧🇷
+- 💡 Inspirado por inovação e comunidades tech.
+
+*© 2025 Eugenio Santana | Desenvolvido com 💖 no Maranhão | [Inspire-se!](https://github.com/Mr-erd)*
+
 
