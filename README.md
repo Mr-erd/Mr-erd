@@ -18,7 +18,6 @@ Sou um entusiasta da tecnologia movido por curiosidade e inovação! Meu foco é
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge) | Intermediário | [![CSS Tutorial](https://img.shields.io/badge/Tutorial-Click%20Aqui-blueviolet)](https://www.w3schools.com/css/) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge) | Básico        | [![JS Tutorial](https://img.shields.io/badge/Tutorial-Click%20Aqui-blueviolet)](https://www.w3schools.com/js/) |
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=for-the-badge) | Intermediário | [![Bootstrap Docs](https://img.shields.io/badge/Docs-Click%20Aqui-blueviolet)](https://getbootstrap.com/) |
-| ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&style=for-the-badge) | Básico        | [![jQuery Docs](https://img.shields.io/badge/Docs-Click%20Aqui-blueviolet)](https://jquery.com/) |
 | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge) | Intermediário | [![Git Guide](https://img.shields.io/badge/Guide-Click%20Aqui-blueviolet)](https://git-scm.com/doc) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge) | Intermediário | [![Python Docs](https://img.shields.io/badge/Docs-Click%20Aqui-blueviolet)](https://www.python.org/) |
 
@@ -41,17 +40,6 @@ Sou um entusiasta da tecnologia movido por curiosidade e inovação! Meu foco é
   />
 </div>
 
----
-
-### 🐍 Contribuições Animadas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 
 ---
@@ -61,15 +49,15 @@ Sou um entusiasta da tecnologia movido por curiosidade e inovação! Meu foco é
 
 | Plataforma       | Link                        |
 |-------------------|-----------------------------|
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge) | [Perfil](https://www.linkedin.com/in/eugenio-santana/)  |
-| ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge) | [eugenio.santana@example.com](mailto:eugenio.santana@example.com)  |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge) | [Mr-erd](https://github.com/Mr-erd) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge) | [Eugenio Santana](https://www.linkedin.com/in/eugenio-santana/)  |
+| ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge) | [eugeniopereira047@gmail.com](mailto:eugenio.santana@example.com)  |
+
 
 ---
 
 ### ✨ Sobre Mim
 
-- 🎓 Estudante no IFMA, apaixonado por código e segurança.
+- 🎓 Estudante apaixonado por código e segurança.
 - 🌴 Orgulho de ser Maranhense! 🇧🇷
 - 💡 Inspirado por inovação e comunidades tech.
 
