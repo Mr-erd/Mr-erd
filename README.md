@@ -10,7 +10,7 @@ Sou um entusiasta da tecnologia movido por curiosidade e inovação! Meu foco é
 
 ---
 
-### 🌈 Tech Stack & Skills
+### Tech Stack & Skills
 
 | Tecnologia       | Nível         | Badge Interativo                   |
 |-------------------|---------------|------------------------------------|
