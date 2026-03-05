@@ -94,13 +94,13 @@ focus      : [ SOC ] [ DevSecOps ] [ Back-end ] [ Pentest ]
 
 <div align="center">
   <a href="https://github.com/Mr-erd">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-erd&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff99&icon_color=00aaff&text_color=888888"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mr-erd&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff99&icon_color=00aaff&text_color=888888"/>
   </a>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-erd&theme=chartreuse-dark&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=00ff99&text_color=888888"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mr-erd&theme=chartreuse-dark&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=00ff99&text_color=888888"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-erd&theme=chartreuse-dark&hide_border=true&background=0d0d0d&stroke=00ff99&ring=00aaff&fire=00ff99&currStreakLabel=00ff99&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Mr-erd&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff99&ring=00aaff&fire=00ff99&currStreakLabel=00ff99&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="streak"/>
 </div>
 
 ---
@@ -111,11 +111,7 @@ focus      : [ SOC ] [ DevSecOps ] [ Back-end ] [ Pentest ]
 ```
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Mr-erd/Mr-erd/main/output/github-contribution-grid-snake.svg">
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-erd&bg_color=0d0d0d&color=00ff99&line=00aaff&point=00ff99&area=true&area_color=003322&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 ---
